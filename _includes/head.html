@@ -9,15 +9,14 @@
   <link rel="alternate" type="application/atom+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   {% if page.custom_head %}{{ page.custom_head }}{% endif %}
   <style>
-    li {
-      list-style: none;
-    }
-    li::before {
-      content: '☀️ ';
+    li::marker {
+      color: #2d4f38;
     }
     body {
       font-family: 'Fraunces', serif;
     }
-    
+    a { color: #4a7c59 !important; }
+    a:visited { color: #3a6147 !important; }
+    a:hover { color: #2d4f38 !important; }
   </style>
 </head>
