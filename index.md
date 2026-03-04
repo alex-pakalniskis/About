@@ -2,6 +2,7 @@
 layout: home
 title: Alex Pakalniskis
 ---
+![notlikepaka](/About/assets/images/notlikepaka.png)
 
 ## 🌵 Bio
 
