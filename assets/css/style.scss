@@ -3,4 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.site-footer { display: none; }
+.site-header { display: none !important; }
+footer { display: none !important; }
+footer.site-footer { display: none !important; }
