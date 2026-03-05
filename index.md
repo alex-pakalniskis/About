@@ -12,7 +12,7 @@ His career began flying drones to map ecological change. Since then he has worke
 
 Outside of work, he enjoys spending time with his wife and their two dogs, tending to the garden, watching documentaries, and getting caught up in the spectacle of professional wrestling.
 
-## 🌵 Experience
+## 🌵 Experience 
 ### Current
 Product Manager, Ecosystem at Offchain Labs from December 2025 to Present
 
