@@ -20,10 +20,10 @@ Outside of work, he enjoys spending time with his wife and their two dogs, tendi
 * Tools & Technical Support Engineer at SimplePractice from Nov 2020 to Oct 2021
 
 ## 🌵 Education & Credentials
-* Bachelor of Science in Biochemistry from University of California, Los Angeles
 * Master of Arts in Geography from California State University, Long Beach
-* Advanced Certified Scrum Product Owner from Scrum Alliance
-* Payments Boot Camp from Glenbrook Partners 
+* Bachelor of Science in Biochemistry from University of California, Los Angeles
+* [Advanced Certified Scrum Product Owner](https://bcert.me/bc/html/show-badge.html?b=kmfjoqhn) from Scrum Alliance
+* [Payments Boot Camp](https://learning.glenbrook.com/certificates/2ladiniwb3) from Glenbrook Partners
 
 ## 🌵 Get in Touch
 - [LinkedIn](https://linkedin.com/in/alexpakalniskis3)
