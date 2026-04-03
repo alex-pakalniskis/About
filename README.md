@@ -1,3 +1,3 @@
-Personal website for Alex Pakalniskis. 
+Personal website for Alex Pakalniskis.
 
-Edit content in index.md to update the site. 
+Edit `.md` files to update content. Push to deploy.
