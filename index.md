@@ -2,8 +2,7 @@
 layout: page
 ---
 
-Alex Pakalniskis, also known as Paka, is a product manager on the Enterprise Services team at [Offchain Labs](https://www.offchainlabs.com/). He works with institutional clients across the full engagement lifecycle, helping them evaluate, adopt, and grow on [Arbitrum](https://arbitrum.io/)'s enterprise-grade blockchain infrastructure.
+## About
 
-His career began flying drones to map ecological change. Since then he has worked on products for clinicians, web mapping teams, and blockchain startups, and now brings that cross-domain perspective to some of the largest institutions in finance and beyond.
-
-Outside of work, he enjoys spending time with his wife and their two dogs, tending to the garden, watching documentaries, and getting caught up in the spectacle of professional wrestling. He also moonlights as a brand builder alongside business partner Eric Dates, using print-on-demand and AI tools to launch niche consumer fashion brands from concept to shelf with minimal overhead.
+Alex Pakalniskis, also known as Paka, is a product manager and entrepreneur based in California's Mojave Desert. By day, he works on the Enterprise Services team at Offchain Labs, helping institutional clients evaluate, adopt, and grow on [Arbitrum's](https://arbitrum.io/) enterprise-grade blockchain infrastructure. On the side, he and business partner Eric Dates are building a portfolio of niche consumer brands from the ground up.
+His career began flying drones to map ecological change. Since then he has worked on products for clinicians, web mapping teams, and blockchain startups, picking up a knack for turning early-stage ideas into shipped solutions along the way. Outside of work, he enjoys spending time with his wife and their two dogs, tending to the garden, watching documentaries, and getting caught up in the spectacle of professional wrestling. 
