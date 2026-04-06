@@ -1,3 +1,9 @@
+---
+title: Entrepreneurship
+icon: fas fa-rocket
+order: 3
+---
+
 Alongside his product management career, Paka and business partner [Eric Dates](https://www.linkedin.com/in/ericdates) are building a portfolio of niche consumer brands. The parent company is still taking shape (the name is TBD), but the model is clear: build brand IP and creative direction in-house, keep overhead near zero through AI-assisted design and print-on-demand fulfillment, and use algorithmic ad targeting to find the right audiences without a traditional marketing team.
 
 Heavy Meds is the first brand out the door.
