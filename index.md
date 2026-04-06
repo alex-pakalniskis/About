@@ -1,6 +1,5 @@
 ---
-icon: fas fa-info-circle
-order: 4
+layout: page
 ---
 
 Alex Pakalniskis, also known as Paka, is a product manager on the Enterprise Services team at [Offchain Labs](https://www.offchainlabs.com/). He works with institutional clients across the full engagement lifecycle, helping them evaluate, adopt, and grow on [Arbitrum](https://arbitrum.io/)'s enterprise-grade blockchain infrastructure.
