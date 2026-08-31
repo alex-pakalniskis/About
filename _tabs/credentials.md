@@ -16,4 +16,4 @@ order: 2
 [Payments Boot Camp](https://learning.glenbrook.com/certificates/2ladiniwb3)
 *Glenbrook Partners*
 
-In progress - [Brokerage Operations Professional Certificate: Online](https://www.nyif.com/online-professional-certificate-in-brokerage-operations.html) *New York Institute of Finance*
+[Brokerage Operations Professional Certificate: Online](https://www.nyif.com/online-professional-certificate-in-brokerage-operations.html) *New York Institute of Finance*
